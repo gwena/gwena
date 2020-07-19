@@ -1,7 +1,7 @@
 Software Engineer | CTO @ [Kaizo](https://kaizo.com)
 
-:fr: (born/raised) :south_africa: (lived) :netherlands: (living)
+born/raised :fr: :baguette_bread: | lived :reunion: :desert_island: :south_africa: :giraffe: | currently :netherlands: :bike:
 
-:sunny: :family: :desert_island: :surfing_man:
+:sunny: :family: :surfing_man: :sailboat:
 
 :heart: Clojure
